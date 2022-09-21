@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AWS-TravelNotes</string>
+    <string name="splash_name">Travel Notes</string>
+
+    <string name="permission_denied">Permission denied!</string>
+    <string name="add_photo">Add photo</string>
+    <string name="take_photo">Take photo</string>
+    <string name="choose_file_gallery">Choose file from Gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="arrow_back">Arrow Back</string>
+
+    <string name="verify">Verify</string>
+    <string name="verification_code">VerificationCode</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="already_registered">Already have and account? Login.</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+    <string name="log_out">Log out</string>
+    <string name="image_to_pick">Image to pick</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="empty_notes">Your travel notes are empty, add some by clicking + button</string>
+    <string name="note_image">Note Image</string>
+    <string name="sign_in">Sign In</string>
+    <string name="no_account">Don\'t have an account? Sing up.</string>
+
+</resources>

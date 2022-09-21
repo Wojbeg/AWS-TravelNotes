@@ -1,0 +1,12 @@
+{
+  "AppSyncApiName": "awstravelnotes",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authawstravelnotes720a1f1a",
+      "Outputs.UserPoolId"
+    ]
+  },
+  "AuthModeLastUpdated": "2022-09-01T19:47:31.179Z"
+}
